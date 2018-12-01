@@ -17,9 +17,76 @@
   <title>模板</title>
 </head>
 <body>
-<header>
-<iframe src="header.HTML" frameborder="0" scrolling="no"></iframe>
-</header>
+<div class="container pt-5">
+  <footer>
+  <ul id="bg-color" class="list-unstyled d-flex justify-content-around">
+    <li><img src="../img/footer/icon1.png" alt=""><p class="my_small text-center text-muted">品质保障</p></li>
+    <li><img src="../img/footer/icon2.png" alt=""><p  class="my_small text-center text-muted">私人订制</p></li>
+    <li><img src="../img/footer/icon3.png" alt=""><p  class="my_small text-center text-muted">学员提供</p></li>
+    <li><img src="../img/footer/icon4.png" alt=""><p  class="my_small text-center text-muted">专属特权</p></li>
+  </ul>
+    <!--下半部-->
+    <div class="bg-white">
+    <div class="bg-white pt-5 row">
+      <!--左-->
+      <div class="col-lg-4 col-sm-12">
+        <img src="../img/header/logo.png" alt="">
+        <img src="../img/footer/footerFont.png" alt="">
+      </div>
+      <!--中-->
+      <div class="col-lg-4 col-sm-12">
+        <div class="row ul_center">
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>卖家帮助</h6></a></li>
+            <li><a href="#">新手指南</a></li>
+            <li><a href="#">服务保障</a></li>
+            <li><a href="#">常见问题</a></li>
+          </ul>
+          </div>
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>商家帮助</h6></a></li>
+            <li><a href="#">商家入驻</a></li>
+            <li><a href="#">商家后台</a></li>
+          </ul>
+          </div>
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>关于我们</h6></a></li>
+            <li><a href="#">关于达内</a></li>
+            <li><a href="#">联系我们</a></li>
+            <li>
+              <img src="../img/footer/sinablog.png" alt="">
+              <img src="../img/footer/wechat.png" alt="">
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+      <!--右-->
+      <div class="col-lg-4 col-sm-12">
+        <div class="row d-flex justify-content-center">
+          <!--左-->
+          <div class="col-6 pr-0 pl-5">
+            <h6>学子商城客户端</h6>
+            <img  src="../img/footer/ios.png" alt="">
+            <img class="mt-1"  src="../img/footer/android.png" alt="">
+          </div>
+          <div class="col-6 pr-0">
+            <img src="../img/footer/erweima.png" alt="">
+          </div>
+        </div>
+      </div>
+      <!--下-->
+      <!--版权-->
+      <div class="text-center col-12 pt-3 pb-5">
+        ©2017 达内科技有限公司 版权所有 京ICP备08000853号-75
+      </div>
+    </div>
+    </div>
+  </footer>
+</div>
 <div class="container">
   <!--轮播图-->
   <div id="mycar" class="carousel" data-ride="carousel">
@@ -155,8 +222,75 @@
   </div>
 </div>
 </div>
-<footer>
-<iframe src="footer.HTML" frameborder="0" scrolling="no"></iframe>
-</footer>
+<div class="container pt-5">
+  <footer>
+  <ul id="bg-color" class="list-unstyled d-flex justify-content-around">
+    <li><img src="../img/footer/icon1.png" alt=""><p class="my_small text-center text-muted">品质保障</p></li>
+    <li><img src="../img/footer/icon2.png" alt=""><p  class="my_small text-center text-muted">私人订制</p></li>
+    <li><img src="../img/footer/icon3.png" alt=""><p  class="my_small text-center text-muted">学员提供</p></li>
+    <li><img src="../img/footer/icon4.png" alt=""><p  class="my_small text-center text-muted">专属特权</p></li>
+  </ul>
+    <!--下半部-->
+    <div class="bg-white">
+    <div class="bg-white pt-5 row">
+      <!--左-->
+      <div class="col-lg-4 col-sm-12">
+        <img src="../img/header/logo.png" alt="">
+        <img src="../img/footer/footerFont.png" alt="">
+      </div>
+      <!--中-->
+      <div class="col-lg-4 col-sm-12">
+        <div class="row ul_center">
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>卖家帮助</h6></a></li>
+            <li><a href="#">新手指南</a></li>
+            <li><a href="#">服务保障</a></li>
+            <li><a href="#">常见问题</a></li>
+          </ul>
+          </div>
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>商家帮助</h6></a></li>
+            <li><a href="#">商家入驻</a></li>
+            <li><a href="#">商家后台</a></li>
+          </ul>
+          </div>
+          <div class="col-4">
+          <ul class="list-unstyled">
+            <li><a href="#"><h6>关于我们</h6></a></li>
+            <li><a href="#">关于达内</a></li>
+            <li><a href="#">联系我们</a></li>
+            <li>
+              <img src="../img/footer/sinablog.png" alt="">
+              <img src="../img/footer/wechat.png" alt="">
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+      <!--右-->
+      <div class="col-lg-4 col-sm-12">
+        <div class="row d-flex justify-content-center">
+          <!--左-->
+          <div class="col-6 pr-0 pl-5">
+            <h6>学子商城客户端</h6>
+            <img  src="../img/footer/ios.png" alt="">
+            <img class="mt-1"  src="../img/footer/android.png" alt="">
+          </div>
+          <div class="col-6 pr-0">
+            <img src="../img/footer/erweima.png" alt="">
+          </div>
+        </div>
+      </div>
+      <!--下-->
+      <!--版权-->
+      <div class="text-center col-12 pt-3 pb-5">
+        ©2017 达内科技有限公司 版权所有 京ICP备08000853号-75
+      </div>
+    </div>
+    </div>
+  </footer>
+</div>
 </body>
 </html>
